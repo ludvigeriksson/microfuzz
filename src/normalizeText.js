@@ -1,6 +1,6 @@
 // @flow
 
-const diacriticsRegex = /[\u0300-\u036f]/g
+const diacriticsRegex = /[\u0300-\u0307\u0309\u030b-\u036f]/g
 const regexŁ = /ł/g
 const regexÑ = /ñ/g
 
